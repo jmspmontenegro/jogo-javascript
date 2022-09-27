@@ -8,7 +8,7 @@ I'm studying different concepts and I found this project on a youtube video. Is 
 
 ## References
 
-- [See de video](https://www.youtube.com/watch?v=jOAU81jdi-c)
+- [See video](https://www.youtube.com/watch?v=jOAU81jdi-c)
 - [Creator repository](https://github.com/omariosouto/flappy-bird-devsoutinho/tree/master)
 - [Testing the game](https://omariosouto.github.io/flappy-bird-devsoutinho/)
 
